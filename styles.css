@@ -443,6 +443,9 @@ span:nth-child(5) {
 /* IPHONE MEDIA QUERY */
 @media screen and (max-width: 690px) {
 
+  .subscribe {
+    margin-top: 10px;
+  }
     .logo {
       grid-column: 1/3;
     }
