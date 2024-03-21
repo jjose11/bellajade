@@ -427,6 +427,11 @@ span:nth-child(5) {
       margin: 0 auto;
     }
 
+    .search:hover {
+width: 200px;
+margin: 0 auto;
+}
+
 .text-slide {
   grid-column: 1/5;
   margin-bottom: 10px;
